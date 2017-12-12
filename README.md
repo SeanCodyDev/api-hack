@@ -1,6 +1,17 @@
 # api-hack
 
-Unfortunately, I think that that the management of the GPS coordinates is beyond my current knowledge and intent of this assignment.
+"Meet Your City"
+- Takes in a zipcode or city
+- validates city against Google Maps reference
+- Displays relevant city news, from Google News feed
+- Displays upcoming events - music, entertainment, etc.
+- Displays "Hot Spots" - including top recommendations from Yelp, FourSquare, and/or Google Maps for coffee, breakfast, lunch, nightlife, etc.
+- Displays map with current traffic
+- Optional - displays Facebook (or other socials) friends who live and/or have checked in at this city
+
+___________________
+
+Unfortunately, for the idea below, I think that that the management of the GPS coordinates is beyond my current knowledge and intent of this assignment.
 
 Value proposition to the user - 
 1) What geographic areas are "busy" for Uber drivers?
